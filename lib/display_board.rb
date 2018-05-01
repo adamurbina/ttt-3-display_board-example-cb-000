@@ -9,4 +9,4 @@ def display_board
   puts divis
   puts line
 
-end
+  end
