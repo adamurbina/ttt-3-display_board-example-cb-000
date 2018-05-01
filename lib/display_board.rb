@@ -8,3 +8,5 @@ def display_board
   puts line
   puts divis
   puts line
+
+end
