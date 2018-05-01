@@ -3,10 +3,10 @@ def display_board
   line = ["   ", "|", "   ", "|","   " ]
   divis = "-----------"
 
-  print line
+  puts line
   puts divis
-  print line
+  puts line
   puts divis
-  print line
+  puts line
 
 end
